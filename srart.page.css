@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    
+    background-image:url("https://volsiz.ru/wp-content/uploads/2022/01/how-to-level-up-your-steam-account-in-2022_61e54088e2094.jpeg") ;
+      height:102px ;
+      
+
+}
+h1{
+    color: rgb(0, 132, 255);
+    text-align: center;
+
+
+}
+main img{
+    height: 250px;
+    margin-left:100px ;
+    margin-bottom: 35px;
+
+    }
+    main p{
+        
+        font-size: 26px;
+        
+    }
+    footer{
+        background-color:rgb(54, 54, 233) ;
+    }
+    footer p {
+        background-color: white;
+        border:2px solid white ;
+    
+    }
+    footer{
+        height:100px;
+        border: 2px solid rgb(54, 54, 233);
+    }
+    header img{
+        height: 100%;
+        width: 100%;
+    }
+    main a{
+        margin-left:50px;
+        text-decoration: none;
+        margin-bottom: 30px;
+        }
+        .kot{
+             border:2px solid black ;
+             }
+             .bot{
+                 font-size:25px ;
+                 margin-bottom: 20px;
+             }
