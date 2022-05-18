@@ -3,7 +3,7 @@ body {
 }
 header {
     
-    background-image:url("https://volsiz.ru/wp-content/uploads/2022/01/how-to-level-up-your-steam-account-in-2022_61e54088e2094.jpeg") ;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOkrr2cZnoqgG9y-SY_A_dHIIQw1wK4fNkC4pOlAnd4ifpD0zNlTf9iezidnjojRykw&usqp=CAU") ;
       height: 102px;
 
 }
@@ -54,3 +54,7 @@ main img{
              .bot{
                  font-size:25px ;
              }
+html{
+   height:1000px;
+   width:150px;
+}
